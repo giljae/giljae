@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent에게 기억을 붙이는 방법](https://www.giljae.com/2026/05/ai-agent.html)
+- [AI 시대의 조직은 왜 &quot;공개된 대화&quot;를 선택해야 하는가?](https://www.giljae.com/2026/05/ai.html)
+- [LLM 라우팅, 요청에 적합한 모델 선택하기](https://www.giljae.com/2026/05/llm.html)
+- [모델 하나로는 부족한 시대](https://www.giljae.com/2026/05/blog-post.html)
+- [Goose 소개: 개발자와 함께 일하는 범용 AI 에이전트](https://www.giljae.com/2026/05/goose-ai.html)
 <!-- BLOG-POST-LIST:END -->
