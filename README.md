@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SkillClaw - 에이전트의 &#39;스킬&#39;을 집단 지식으로 진화 시키는 시도](https://www.giljae.com/2026/06/skillclaw.html)
 - [에이전트를 위한 오픈소스 메모리 레이어 &#39;XMem&#39;](https://www.giljae.com/2026/05/xmem.html)
 - [AI IDE의 모습](https://www.giljae.com/2026/05/ai-ide.html)
 - [개발보다 AI가 만든 코드 리뷰가 많아지는 시대](https://www.giljae.com/2026/05/ai_01308381887.html)
 - [AI Agent에게 기억을 붙이는 방법](https://www.giljae.com/2026/05/ai-agent.html)
-- [AI 시대의 조직은 왜 &quot;공개된 대화&quot;를 선택해야 하는가?](https://www.giljae.com/2026/05/ai.html)
 <!-- BLOG-POST-LIST:END -->
