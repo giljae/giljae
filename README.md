@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [가장 비싼 코드](https://www.giljae.com/2026/07/blog-post_11.html)
 - [거대 모델의 시대를 넘어](https://www.giljae.com/2026/07/blog-post.html)
 - [끝까지 만드는 태도](https://www.giljae.com/2026/06/blog-post.html)
 - [SkillClaw - 에이전트의 &#39;스킬&#39;을 집단 지식으로 진화 시키는 시도](https://www.giljae.com/2026/06/skillclaw.html)
 - [에이전트를 위한 오픈소스 메모리 레이어 &#39;XMem&#39;](https://www.giljae.com/2026/05/xmem.html)
-- [AI IDE의 모습](https://www.giljae.com/2026/05/ai-ide.html)
 <!-- BLOG-POST-LIST:END -->
