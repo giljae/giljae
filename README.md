@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI 기술 도입은 착각일 뿐, 기업 AI 혁신의 본질](https://www.giljae.com/2026/07/ai-ai.html)
 - [토큰 맥싱&lpar;tokenmaxxing&rpar;의 문제점](https://www.giljae.com/2026/07/tokenmaxxing.html)
 - [가장 비싼 코드](https://www.giljae.com/2026/07/blog-post_11.html)
 - [거대 모델의 시대를 넘어](https://www.giljae.com/2026/07/blog-post.html)
 - [끝까지 만드는 태도](https://www.giljae.com/2026/06/blog-post.html)
-- [SkillClaw - 에이전트의 &#39;스킬&#39;을 집단 지식으로 진화 시키는 시도](https://www.giljae.com/2026/06/skillclaw.html)
 <!-- BLOG-POST-LIST:END -->
