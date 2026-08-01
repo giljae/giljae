@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5.6 Luna/Terra 가격 다운](https://www.giljae.com/2026/07/gpt-56-lunaterra.html)
 - [Valve가 리눅스에 기여하는 것들](https://www.giljae.com/2026/07/valve.html)
 - [LLM + 하네스 - 에이전트란 무엇인가?](https://www.giljae.com/2026/07/llm.html)
 - [AI, 종이책을 삼키다.](https://www.giljae.com/2026/07/ai.html)
 - [잭 도시의 Block의 AI 에이전트 구축 전략과 역설](https://www.giljae.com/2026/07/block-ai.html)
-- [Kimi K3에 대한 OpenAI 전략책임자 Dean Ball의 글](https://www.giljae.com/2026/07/kimi-k3-openai-dean-ball.html)
 <!-- BLOG-POST-LIST:END -->
