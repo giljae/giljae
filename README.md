@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [우버 이츠는 셀프 튜닝 AI 다중 에이전트를 어떻게 활용하는가?](https://www.giljae.com/2026/08/ai_01913083236.html)
+- [AI를 천재 인턴처럼 대하세요.](https://www.giljae.com/2026/08/ai.html)
 - [GPT-5.6 Luna/Terra 가격 다운](https://www.giljae.com/2026/07/gpt-56-lunaterra.html)
 - [Valve가 리눅스에 기여하는 것들](https://www.giljae.com/2026/07/valve.html)
 - [LLM + 하네스 - 에이전트란 무엇인가?](https://www.giljae.com/2026/07/llm.html)
-- [AI, 종이책을 삼키다.](https://www.giljae.com/2026/07/ai.html)
-- [잭 도시의 Block의 AI 에이전트 구축 전략과 역설](https://www.giljae.com/2026/07/block-ai.html)
 <!-- BLOG-POST-LIST:END -->
