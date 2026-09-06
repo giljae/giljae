@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI 에이전트는 왜 위키에 글을 남겼을까?](https://www.giljae.com/2026/09/open-ai.html)
 - [MCP와 Local LLM을 활용한 개인 정보 우선 AI 에이전트 구축 예시](https://www.giljae.com/2026/08/mcp-local-llm-ai.html)
 - [Terminal User Interface](https://www.giljae.com/2026/08/terminal-user-interface.html)
 - [우버 이츠는 셀프 튜닝 AI 다중 에이전트를 어떻게 활용하는가?](https://www.giljae.com/2026/08/ai_01913083236.html)
 - [AI를 천재 인턴처럼 대하세요.](https://www.giljae.com/2026/08/ai.html)
-- [GPT-5.6 Luna/Terra 가격 다운](https://www.giljae.com/2026/07/gpt-56-lunaterra.html)
 <!-- BLOG-POST-LIST:END -->
