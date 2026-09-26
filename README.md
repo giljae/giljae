@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [하네스 엔지니어링 - 신뢰할 수 있는 AI 에이전트 구축](https://www.giljae.com/2026/09/ai.html)
 - [Jev의 System One Model](https://www.giljae.com/2026/09/jev-system-one-model.html)
 - [Jev AI란 무엇인가?](https://www.giljae.com/2026/09/jev-ai.html)
 - [Meta의 Project OT&lpar;Organization Transformation&rpar;](https://www.giljae.com/2026/09/meta-project-otorganization.html)
 - [OpenAI 에이전트는 왜 위키에 글을 남겼을까?](https://www.giljae.com/2026/09/open-ai.html)
-- [MCP와 Local LLM을 활용한 개인 정보 우선 AI 에이전트 구축 예시](https://www.giljae.com/2026/08/mcp-local-llm-ai.html)
 <!-- BLOG-POST-LIST:END -->
