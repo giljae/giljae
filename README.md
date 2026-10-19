@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [대부분의 기업에 에이전트가 필요할까?](https://www.giljae.com/2026/10/blog-post.html)
+- [Baalda 소개](https://www.giljae.com/2026/10/baalda.html)
 - [Google AI Edge Foresight](https://www.giljae.com/2026/10/google-ai-edge-foresight.html)
 - [Omarchy Linux](https://www.giljae.com/2026/10/omarchy-linux.html)
 - [하네스 엔지니어링 - 신뢰할 수 있는 AI 에이전트 구축](https://www.giljae.com/2026/09/ai.html)
-- [Jev의 System One Model](https://www.giljae.com/2026/09/jev-system-one-model.html)
-- [Jev AI란 무엇인가?](https://www.giljae.com/2026/09/jev-ai.html)
 <!-- BLOG-POST-LIST:END -->
