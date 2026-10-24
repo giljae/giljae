@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - [Omarchy Linux](https://www.giljae.com/2026/10/omarchy-linux.html)
 - [하네스 엔지니어링 - 신뢰할 수 있는 AI 에이전트 구축](https://www.giljae.com/2026/09/ai.html)
 <!-- BLOG-POST-LIST:END -->
+
+# Pinned
